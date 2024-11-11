@@ -36,7 +36,7 @@ public class MutantService {
                         sequencesFound++;
             }
         }
-        saveDna(dna, false);
+        saveDna(dna, res);
         return res;
     }
 
