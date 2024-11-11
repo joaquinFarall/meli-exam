@@ -1,0 +1,12 @@
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/MeLiExamApplication.java
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/api/controller/MutantController.java
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/api/controller/StatsController.java
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/api/dto/MutantRequest.java
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/api/dto/StatResponse.java
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/api/exception/ControllerExceptionHandler.java
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/api/model/Dna.java
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/api/repository/DnaRepository.java
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/api/service/MutantService.java
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/api/service/StatService.java
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/api/validation/DnaValid.java
+/home/joakofarall/MeLiExam/src/main/java/org/example/meliexam/api/validation/DnaValidator.java
